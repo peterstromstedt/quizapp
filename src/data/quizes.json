@@ -1,0 +1,1844 @@
+[
+    {
+        "id": 1,
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "name": "Math",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "22 / 2 + 10 - 5",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "12",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "25",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "12 x 3 + 6 - 4",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "34",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "42",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "56",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "27",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "18 / 2 + 5 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "12",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "15",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "9 x 4 + 7 - 2",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "28",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "34",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "41",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "20",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "24 / 3 + 6 - 5",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "12",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "13",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "9",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "15 x 2 + 4 - 7",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "29",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "26",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "32",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "18",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "30 / 5 + 8 - 6",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "15",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "10",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "7",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "name": "Biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The Kreb Cycles occurs in the",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rough ER",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cystol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "How many oxygen molecules can hemoglobin hold",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The cones see ___ while the rods see ___",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "black and white; color",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "color; black and white",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3D objects; 2D shapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2D shapes; 3D objects",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the largest organ in the human body?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Heart",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Liver",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Skin",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Lungs",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Which gas is responsible for the green color of plants?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Carbon dioxide",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Methane",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Oxygen",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chlorophyll",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "What is the process by which plants make their own food using sunlight?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Respiration",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Digestion",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Photosynthesis",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Fermentation",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Which organelle is known as the 'cell's brain'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Golgi apparatus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Endoplasmic reticulum",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "What is the chemical symbol for water?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "H2O",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "O2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "NaCl",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What is the function of the ribosomes in a cell?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Store genetic information",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Produce energy",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Synthesize proteins",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Transport materials within the cell",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "What is the basic unit of life?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Cell",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tissue",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Organ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Organism",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the chemical symbol for gold?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Au",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ag",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Fe",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cu",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is the most abundant gas in the Earth's atmosphere?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Oxygen (O2)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Carbon dioxide (CO2)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Nitrogen (N2)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Argon (Ar)",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the chemical formula for water?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "H2O",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "CO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NH3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "SO2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the pH scale used to measure?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Density of substances",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Temperature of substances",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Acidity or alkalinity of solutions",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Pressure of gases",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What is the smallest unit of an element that retains the chemical properties of that element?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Molecule",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ion",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Atom",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Compound",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "What is the process by which a solid changes directly into a gas without passing through the liquid state?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sublimation",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Condensation",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Evaporation",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Fusion",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "What is the chemical name for table salt?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sodium chloride",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Potassium iodide",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Calcium carbonate",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Hydrogen peroxide",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Which gas is responsible for the 'greenhouse effect' and global warming?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Oxygen (O2)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Methane (CH4)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Nitrogen (N2)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Carbon dioxide (CO2)",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Which chemical element is essential for all known forms of life on Earth?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Helium (He)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Silicon (Si)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Carbon (C)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Gold (Au)",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "What is the chemical formula for methane, a common greenhouse gas?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "CO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "H2O",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "N2",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://media.istockphoto.com/id/936903524/sv/vektor/blackboard-inskrivet-med-vetenskapliga-formler-och-ber%C3%A4kningar-i-fysik-och-matematik-kan.jpg?s=2048x2048&w=is&k=20&c=Yo2MC_1ZsYvDO1uTX7AzS8wdBlQjg5ufNQ1TGzcNyZM=",
+        "name": "Physics",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the formula for calculating the force of gravity?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "F = ma",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "F = mg",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "F = mv",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "F = ma^2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is the SI unit of electric current?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Watt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Volt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ohm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Ampere",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the second law of thermodynamics?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Energy is conserved",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Entropy tends to decrease over time",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Heat flows from a cold object to a hot object",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Heat cannot spontaneously flow from a colder location to a hotter location",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the unit of measurement for frequency?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hertz (Hz)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Watt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Joule",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Ampere",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What is the third law of motion formulated by Isaac Newton?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "For every action, there is an equal and opposite reaction",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Force equals mass times acceleration",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "An object at rest stays at rest",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "The velocity of an object is constant unless acted upon by a net external force",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "What is the speed of light in a vacuum?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "186,282 miles per second",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "299,792,458 meters per second",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "100,000 kilometers per hour",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1.21 gigawatts",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "What is the law of conservation of energy?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Energy cannot be created or destroyed, only transferred or converted from one form to another",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Energy can be created out of nothing",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Energy is always decreasing over time",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Energy is conserved only in chemical reactions",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "What is the unit of electrical resistance?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Ohm",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ampere",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Joule",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Watt",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What is the law of reflection of light?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Light always travels in a straight line",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The angle of incidence is equal to the angle of reflection",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Light bends towards the normal when passing from air into glass",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Light can travel faster than the speed of sound",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "What is the formula for calculating electrical power?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P = V / I",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "P = VI",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "P = I / R",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "P = Fd",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://7esl.com/wp-content/uploads/2018/01/sports-and-games.jpg",
+        "name": "Sports",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Which sport is known as the 'king of sports'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tennis",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Soccer (Football)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Basketball",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Golf",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "In which country did the sport of judo originate?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "China",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Brazil",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Japan",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Russia",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which sport is played at Wimbledon?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Table tennis",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Badminton",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tennis",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Squash",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Which sport is associated with the Super Bowl?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Baseball",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Soccer",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "American Football",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Basketball",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Which country is famous for its passion for cricket?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Brazil",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "India",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "France",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Japan",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Which sport uses the term 'slam dunk'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tennis",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Basketball",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Golf",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Volleyball",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "In which sport would you perform a 'hat-trick'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hockey",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Skiing",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Swimming",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cycling",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Which sport is known as the 'gentleman's sport'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Rugby",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Cricket",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Wrestling",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Boxing",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Which sport features a shuttlecock and a net?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Volleyball",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Badminton",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tennis",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Soccer",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Which sport is often referred to as 'the beautiful game'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Golf",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Baseball",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Soccer (Football)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Tennis",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://media.istockphoto.com/id/1092170968/sv/vektor/%C3%B6ppen-bok-med-historia-doodles-och-bokst%C3%A4ver.jpg?s=612x612&w=0&k=20&c=-CaN2lYeMAHdLADnBtT77kfOBDBmUVs9xkfyZAxjp_A=",
+        "name": "History",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who was the first President of the United States?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Thomas Jefferson",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Benjamin Franklin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "George Washington",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "John Adams",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which ancient civilization built the pyramids in Egypt?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Roman Empire",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Greek Empire",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Mayan Civilization",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Ancient Egyptians",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which historical event is known as 'D-Day'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Attack on Pearl Harbor",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Battle of Gettysburg",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Normandy landings",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Boston Tea Party",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Who was the famous nurse during the Crimean War known for her pioneering work in nursing and healthcare reform?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Florence Nightingale",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Clara Barton",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Mary Seacole",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Harriet Tubman",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "In which year did Christopher Columbus first reach the Americas?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1492",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1512",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1620",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1776",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Amelia Earhart",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Bessie Coleman",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Harriet Quimby",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Valentina Tereshkova",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Who was the first emperor of the Roman Empire?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Julius Caesar",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Augustus",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Nero",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Caligula",
+                        "isCorrect": false
+                    }
+                    ]
+            },
+            {
+                "id": 8,
+                "text": "Who wrote the 'I Have a Dream' speech during the American Civil Rights Movement?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Malcolm X",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Harriet Tubman",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rosa Parks",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Martin Luther King Jr.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What was the main cause of the French Revolution?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Monarch's extravagant lifestyle",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Invasion by foreign powers",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Economic inequality and social unrest",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Religious conflicts",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Vladimir Putin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Leon Trotsky",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Nikita Khrushchev",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Joseph Stalin",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
